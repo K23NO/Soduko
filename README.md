@@ -23,6 +23,3 @@ Para instalar las dependencias para Python 2.x:
 
 	pip install -r requirements.txt
 
-## Trabajo futuro
-
-Este repositorio será utilizado para mostrar el juego en el canal de [YouTube](http://youtube.com/user/ivantraceur8). Además también se pretende realizar algunas modificaciones en él sobre todo para traducir algunas partes del código y hacer modificaciones básicas sobre las mecánicas del juego.
